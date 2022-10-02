@@ -1,3 +1,6 @@
 [submodule "nb-nestjs"]
 	path = nb-nestjs
 	url = https://github.com/blitzdex27/nb-nestjs.git
+[submodule "nb-objc"]
+	path = nb-objc
+	url = https://github.com/blitzdex27/nb-objc.git

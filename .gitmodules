@@ -4,3 +4,6 @@
 [submodule "nb-objc"]
 	path = nb-objc
 	url = https://github.com/blitzdex27/nb-objc.git
+[submodule "nb-common"]
+	path = nb-common
+	url = https://github.com/blitzdex27/nb-common.git

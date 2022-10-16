@@ -7,3 +7,6 @@
 [submodule "nb-common"]
 	path = nb-common
 	url = https://github.com/blitzdex27/nb-common.git
+[submodule "nb-docker-kubernetes"]
+	path = nb-docker-kubernetes
+	url = https://github.com/blitzdex27/nb-docker-kubernetes.git

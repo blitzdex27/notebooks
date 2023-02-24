@@ -14,3 +14,11 @@ Go to this page and read.
 https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
 That's it!
+
+## Submodules
+
+Getting the status and current branch
+`git submodule update status`
+
+Checkout to latest branch in remote
+`git submodule update --remote`

@@ -10,3 +10,7 @@
 [submodule "nb-docker-kubernetes"]
 	path = nb-docker-kubernetes
 	url = https://github.com/blitzdex27/nb-docker-kubernetes.git
+[submodule "nb-git"]
+	path = nb-git
+	url = https://github.com/blitzdex27/nb-git.git
+	branch = main

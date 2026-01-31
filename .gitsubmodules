@@ -1,4 +1,0 @@
-[submodule "nb-objc"]
-	branch = main
-[submodule "nb-nestjs"]
-	branch = master

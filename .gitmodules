@@ -1,9 +1,11 @@
 [submodule "nb-nestjs"]
 	path = nb-nestjs
 	url = git@github.com:blitzdex27/nb-nestjs.git
+	branch = master
 [submodule "nb-objc"]
 	path = nb-objc
 	url = git@github.com:blitzdex27/nb-objc.git
+	branch = main
 [submodule "nb-common"]
 	path = nb-common
 	url = git@github.com:blitzdex27/nb-common.git

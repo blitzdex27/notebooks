@@ -1,16 +1,18 @@
 [submodule "nb-nestjs"]
 	path = nb-nestjs
-	url = https://github.com/blitzdex27/nb-nestjs.git
+	url = git@github.com:blitzdex27/nb-nestjs.git
 [submodule "nb-objc"]
 	path = nb-objc
-	url = https://github.com/blitzdex27/nb-objc.git
+	url = git@github.com:blitzdex27/nb-objc.git
 [submodule "nb-common"]
 	path = nb-common
-	url = https://github.com/blitzdex27/nb-common.git
+	url = git@github.com:blitzdex27/nb-common.git
+	branch = master
 [submodule "nb-docker-kubernetes"]
 	path = nb-docker-kubernetes
-	url = https://github.com/blitzdex27/nb-docker-kubernetes.git
+	url = git@github.com:blitzdex27/nb-docker-kubernetes.git
+	branch = master
 [submodule "nb-git"]
 	path = nb-git
-	url = https://github.com/blitzdex27/nb-git.git
+	url = git@github.com:blitzdex27/nb-git.git
 	branch = main

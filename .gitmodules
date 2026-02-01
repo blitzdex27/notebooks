@@ -18,3 +18,11 @@
 	path = nb-git
 	url = git@github.com:blitzdex27/nb-git.git
 	branch = main
+[submodule "nb-swift"]
+	path = nb-swift
+	url = git@github.com:blitzdex27/nb-swift.git
+	branch = main
+[submodule "nb-ruby"]
+	path = nb-ruby
+	url = git@github.com:blitzdex27/nb-ruby.git
+	branch = main

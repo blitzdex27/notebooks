@@ -26,3 +26,6 @@
 	path = nb-ruby
 	url = git@github.com:blitzdex27/nb-ruby.git
 	branch = main
+[submodule "nb-nextjs"]
+	path = nb-nextjs
+	url = https://github.com/blitzdex27/nb-nextjs.git
